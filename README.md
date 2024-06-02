@@ -85,15 +85,16 @@ So Our selected model and loss function should be complex enough to classify bas
      
      Confusion Matrix :-
 
-     ![cm_dr](https://github.com/saivarshitnune/Diabetic-retinory-image-classification/assets/121888709/eed91491-a18c-4e5f-b3fd-ba04dda3fc01)
+       ![cm_dr](https://github.com/saivarshitnune/Diabetic-retinory-image-classification/assets/121888709/eed91491-a18c-4e5f-b3fd-ba04dda3fc01)
      
 
-     1. Diabetic Retinopathy     --->    0
-     2. No Diabetic Retinopathy  --->    1
+       1. Diabetic Retinopathy     --->    0
+       2. No Diabetic Retinopathy  --->    1
 
-     There are total 9 missclassifications in which 4 images are false positives (No_DR is predicted as DR) and 5 images are false negatives
-      (DR is predicted as No_DR).
+       There are total 9 missclassifications in which 4 images are false positives (No_DR is predicted as DR) and 5 images are false negatives
+        (DR is predicted as No_DR).
      
+
     Classification report :-
 
     ![Cp_DR](https://github.com/saivarshitnune/Diabetic-retinory-image-classification/assets/121888709/afd9d0f6-dfd4-469e-9f68-32af6d8942e0)
@@ -109,33 +110,37 @@ So Our selected model and loss function should be complex enough to classify bas
      96% F1 score
 
 
-2.  Model - ResNet50
+
+
+
+
+2. Model - ResNet50
   
-  Confusion matrix :-
+   Confusion matrix :-
   
-  ![image](https://github.com/saivarshitnune/Diabetic-retinory-image-classification/assets/121888709/e64da56e-44f0-4014-92b5-e9652c973f60)
+    ![image](https://github.com/saivarshitnune/Diabetic-retinory-image-classification/assets/121888709/e64da56e-44f0-4014-92b5-e9652c973f60)
 
-  1. Diabetic Retinopathy     --->    0
-  2. No Diabetic Retinopathy  --->    1
+    1. Diabetic Retinopathy     --->    0
+    2. No Diabetic Retinopathy  --->    1
 
-  There are total 21 missclassifications in which 10 images are false positives (No_DR is predicted as DR) and 11 images are false negatives
-  (DR is predicted as No_DR)
+    There are total 21 missclassifications in which 10 images are false positives (No_DR is predicted as DR) and 11 images are false negatives
+     (DR is predicted as No_DR)
   
 
-  Classification report :-
+     Classification report :-
 
-  ![Cp_DR](https://github.com/saivarshitnune/Diabetic-retinory-image-classification/assets/121888709/b52ca7ed-6efe-42a9-b4a4-e93aaba2b493)
+      ![Cp_DR](https://github.com/saivarshitnune/Diabetic-retinory-image-classification/assets/121888709/b52ca7ed-6efe-42a9-b4a4-e93aaba2b493)
 
    
-   Achieved an
+      Achieved an
    
-     Test Accuracy of 90.18 %
+      Test Accuracy of 90.18 %
    
-     91% Recall
+      91% Recall
     
-     91% precision
+      91% precision
    
-     91% F1 score
+      91% F1 score
 
 
 By observing performance evaluation metrics of the both models VGG16 is over performed on ResNet50. Because the ResNet50 model is overfitting to the input data as it is a more deeper and complex network it requires more data to improvr the performance.
