@@ -143,7 +143,7 @@ So Our selected model and loss function should be complex enough to classify bas
       91% F1 score
 
 
-By observing performance evaluation metrics of the both models VGG16 is over performed on ResNet50. Because the ResNet50 model is overfitting to the input data as it is a more deeper and complex network it requires more data to improvr the performance.
+By observing performance evaluation metrics of the both models VGG16 is over performed on ResNet50. Because the ResNet50 model is overfitting to the input data as it is a more deeper and complex network it requires more data to improve the performance.
 
 # Conclusion :-
  This project showcases the potential of deep learning models, particularly VGG16 and ResNet50 in addressing critical need in contemporary healthcare by leveraging the power of these advanced convolutional neural networks, the proposed system significantly enhances the accuracy and efficiency of retinal image analysis.This approach mitigates the limitations associated with manual interpretation, such as human error and variability in diagnosis, while also addressing the challenges posed by the increasing prevalence of diabetes and the scarcity of specialized ophthalmologists and can be improved by training with more diversified and more number of samples for robust  diabetic retinopathy disease classification.
