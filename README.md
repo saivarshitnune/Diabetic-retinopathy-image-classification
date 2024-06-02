@@ -13,11 +13,13 @@ The existing methods for detecting and grading Diabetic Retinopathy often rely o
 
 This dataset consists of a large collection of high-resolution retinal images captured under various imaging conditions. A medical professional has assessed the presence of Diabetic Retinopathy in each image and assigned a rating on a scale ranging between 0 and 1, which corresponds to the following categories:
 
-1. Diabetic Retinopathy    --->    0
-2. No Diabetic Retinopathy --->    1
+1. Diabetic Retinopathy     --->    0
+2. No Diabetic Retinopathy  --->    1
 
 The Diabetic Retinopathy Disease Dataset is a comprehensive collection of 2838 high resolution images divided into two classes
+
  Diabetic Retinopathy (DR)
+ 
  No Diabetic Retinopathy(NO DR)
 
 
