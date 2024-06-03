@@ -1,4 +1,4 @@
-#  Automated System for Accurate Detection of Diabetic Retinopathy using AI
+#  Automated System for Accurate Classification of Diabetic Retinopathy using AI
 
 Diabetic Retinopathy (DR) is a severe eye condition that can lead to vision loss in individuals with long-standing diabetes. The prevalence of DR is alarmingly high, and early detection and timely treatment are crucial to prevent severe visual impairment. Traditional methods for DR screening involve manual interpretation of retinal images, which can be time-consuming and prone to human error. The increasing incidence of diabetes and the limited number of specialized ophthalmologists further hinder timely and accurate diagnosis.
 
