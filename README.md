@@ -2,7 +2,7 @@
 
 Diabetic Retinopathy (DR) is a severe eye condition that can lead to vision loss in individuals with long-standing diabetes. The prevalence of DR is alarmingly high, and early detection and timely treatment are crucial to prevent severe visual impairment. Traditional methods for DR screening involve manual interpretation of retinal images, which can be time-consuming and prone to human error. The increasing incidence of diabetes and the limited number of specialized ophthalmologists further hinder timely and accurate diagnosis.
 
-Current methods for detecting and grading Diabetic Retinopathy are labor-intensive, subjective, and inconsistent. These limitations lead to delays in diagnosis and intervention, which can result in irreversible vision loss for patients. There is an urgent need for an automated, reliable, and accurate system that can assist healthcare professionals in diagnosing and grading the severity of Diabetic Retinopathy efficiently.
+Current methods for detecting Diabetic Retinopathy are labor-intensive, subjective, and inconsistent. These limitations lead to delays in diagnosis and intervention, which can result in irreversible vision loss for patients. There is an urgent need for an automated, reliable, and accurate system that can assist healthcare professionals in diagnosing and grading the severity of Diabetic Retinopathy efficiently.
 
 ![DR_NDr](https://github.com/saivarshitnune/Diabetic-retinory-image-classification/assets/121888709/bb3f20ef-a426-48f9-a2dd-71016445f841)
 
