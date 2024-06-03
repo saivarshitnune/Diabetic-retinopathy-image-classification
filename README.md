@@ -1,4 +1,4 @@
-#  Automated System for Accurate Detection and Grading of Diabetic Retinopathy using AI
+#  Automated System for Accurate Detection of Diabetic Retinopathy using AI
 
 Diabetic Retinopathy (DR) is a severe eye condition that can lead to vision loss in individuals with long-standing diabetes. The prevalence of DR is alarmingly high, and early detection and timely treatment are crucial to prevent severe visual impairment. Traditional methods for DR screening involve manual interpretation of retinal images, which can be time-consuming and prone to human error. The increasing incidence of diabetes and the limited number of specialized ophthalmologists further hinder timely and accurate diagnosis.
 
@@ -147,13 +147,6 @@ By observing performance evaluation metrics of the both models VGG16 is over per
 
 # Conclusion :-
  This project showcases the potential of deep learning models, particularly VGG16 and ResNet50 in addressing critical need in contemporary healthcare by leveraging the power of these advanced convolutional neural networks, the proposed system significantly enhances the accuracy and efficiency of retinal image analysis.This approach mitigates the limitations associated with manual interpretation, such as human error and variability in diagnosis, while also addressing the challenges posed by the increasing prevalence of diabetes and the scarcity of specialized ophthalmologists and can be improved by training with more diversified and more number of samples for robust  diabetic retinopathy disease classification.
-
-# Try it out :-
-  1. Open test.ipynb
-  2. Connect to google colab runtime
-  3. Run the cells that contain importing the required modules and downloading the model weights and loading the model 
-  4. Select the image from sample images and run the test cell and see the result
-    
 
 
 
